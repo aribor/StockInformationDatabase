@@ -1,0 +1,23 @@
+# REQUIREMENTS
+Must install modules/libraries:
+    * sqlite3
+    * requests
+    * json
+    * tkinter
+
+# Warning:
+If the program will be run, you must attain the Ameritrade API key through account
+creation on the Ameritrade Website. If you would like to run the program, you would need
+the API key and edit the config file to include it.
+* For security purposes, it has been removed from the configuration file, config.py *
+
+Please let me know if you need a key and I will provide you with one
+EMAIL: aeb1997@tamu.edu
+
+
+
+# Please run the program with the following command:
+
+python CreateGUI.py
+
+If any issues occur, please contact me.
